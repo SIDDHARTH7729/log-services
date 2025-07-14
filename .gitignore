@@ -1,0 +1,16 @@
+
+node_modules/
+
+log_data/
+microservices/logs/
+notes.log
+.env 
+
+# IDE and OS generated files
+.vscode/ # VS Code settings
+.idea/   # IntelliJ/WebStorm settings
+*.iml    # IntelliJ module files
+.DS_Store # macOS generated files
+Thumbs.db # Windows generated files
+
+filebeat.yml
